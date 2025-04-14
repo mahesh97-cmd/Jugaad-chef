@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+👉 [Try Jugaad Chef Now](https://jugaad-chef.vercel.app/)
+
+
 # 🍲 Jugaad Chef – AI Recipe Improviser
 
 **Jugaad Chef** is a smart AI-powered recipe generator built with the MERN stack and Google Gemini AI. Enter whatever ingredients you have at home, add your preferred cuisine or diet (optional), and let AI generate a delicious recipe just for you — *because real chefs do jugaad!* 😄
